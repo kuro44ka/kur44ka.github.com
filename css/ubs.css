@@ -1,0 +1,8 @@
+.ubs-sales-unavailable {
+	opacity: 0.6;
+	cursor: default;
+}
+
+.ubs-sales-unavailable:hover {
+	background-color: #00c475 !important;
+}

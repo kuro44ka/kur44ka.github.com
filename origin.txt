@@ -1,0 +1,392 @@
+Uri: https://russian-theatre.ru/?city=32
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\index.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/images/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://russian-theatre.ru/images/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://russian-theatre.ru/images/favicon-16x16.png
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://russian-theatre.ru/css/pace-theme-minimal.css
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\css\pace-theme-minimal.css
+Content Type: text/css
+
+Uri: https://russian-theatre.ru/css/kernel_main.css
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\css\kernel_main.css
+Content Type: text/css
+
+Uri: https://russian-theatre.ru/css/template_436bf5bb509dd904954822113f0a3093.css
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\css\template_436bf5bb509dd904954822113f0a3093.css
+Content Type: text/css
+
+Uri: https://russian-theatre.ru/images/favicon.png
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\favicon.png
+Content Type: image/png
+
+Uri: https://russian-theatre.ru/css/ubs.css
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\css\ubs.css
+Content Type: text/css
+
+Uri: https://russian-theatre.ru/poster/
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\poster\index.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/contacts/
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\contacts\index.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=1190
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=1480
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index-1.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=1760
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index-2.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=1290
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index-3.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=2160
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index-4.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=1890
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index-5.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=1420
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index-6.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=1860
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index-7.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/booking/?amount=2310
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\booking\index-8.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/images/theatrename.png
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\theatrename.png
+Content Type: image/png
+
+Uri: https://russian-theatre.ru/images/theatre.png
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\theatre.png
+Content Type: image/png
+
+Uri: https://russian-theatre.ru/images/logo-words.png
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\logo-words.png
+Content Type: image/png
+
+Uri: https://russian-theatre.ru/images/77cc62c8956018f97caf062b5b7eda22.jpg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\77cc62c8956018f97caf062b5b7eda22.jpg
+Content Type: image/jpeg
+
+Uri: https://russian-theatre.ru/js/template_0fbdf46ab91504bbb57c88618a810b2e.js
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\js\template_0fbdf46ab91504bbb57c88618a810b2e.js
+Content Type: application/javascript
+
+Uri: https://russian-theatre.ru/images/call-icon.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\call-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/js/jquery.maskedinput.min.js
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\js\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-Thin.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-Thin.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-ThinItalic.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-ThinItalic.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-Regular.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-Regular.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-RegularItalic.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-RegularItalic.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-Medium.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-Medium.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-MediumItalic.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-MediumItalic.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-Bold.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-Bold.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-BoldItalic.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-BoldItalic.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-Extrabold.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-Extrabold.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/Gilroy-ExtraboldItalic.otf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\Gilroy-ExtraboldItalic.otf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/PlayfairDisplay-Regular.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\PlayfairDisplay-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/PlayfairDisplay-Italic.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\PlayfairDisplay-Italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/PlayfairDisplay-Bold.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\PlayfairDisplay-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/PlayfairDisplay-BoldItalic.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\PlayfairDisplay-BoldItalic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/PlayfairDisplay-Black.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\PlayfairDisplay-Black.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/PlayfairDisplay-BlackItalic.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\PlayfairDisplay-BlackItalic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-HeavyItalic.eot
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-HeavyItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-HeavyItalic.eot?
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-HeavyItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-HeavyItalic.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-HeavyItalic.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-HeavyItalic.woff
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-HeavyItalic.woff
+Content Type: application/font-woff
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-HeavyItalic.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-HeavyItalic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-HeavyItalic.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-HeavyItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Heavy.eot
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Heavy.eot?
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Heavy-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Medium.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Medium.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Medium.woff
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumCond.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumCond.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumCond.woff
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumCond.woff
+Content Type: application/font-woff
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumCond.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumCond.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumCond.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumCond.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-BookItalic.eot
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-BookItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-BookItalic.eot?
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-BookItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-BookItalic.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-BookItalic.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-BookItalic.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-BookItalic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumItalic.eot
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumItalic.eot?
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumItalic.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumItalic.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumItalic.woff
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumItalic.woff
+Content Type: application/font-woff
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumItalic.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumItalic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-MediumItalic.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-MediumItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Book.eot
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Book.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Book.eot?
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Book-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Book.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Book.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Book.woff
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Book.woff
+Content Type: application/font-woff
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Book.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Book.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Book.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Book.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiItalic.eot
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiItalic.eot?
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiItalic.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiItalic.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiItalic.woff
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiItalic.woff
+Content Type: application/font-woff
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiItalic.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiItalic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiItalic.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Demi.eot
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Demi.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Demi.eot?
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Demi-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Demi.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Demi.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Demi.woff
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Demi.woff
+Content Type: application/font-woff
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Demi.ttf
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Demi.ttf
+Content Type: application/font-sfnt
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-Demi.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-Demi.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiCond.eot
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiCond.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiCond.eot?
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiCond-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiCond.woff2
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiCond.woff2
+Content Type: 
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiCond.woff
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiCond.woff
+Content Type: application/font-woff
+
+Uri: https://russian-theatre.ru/fonts/FranklinGothic-DemiCond.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\fonts\FranklinGothic-DemiCond.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/images/bg1.jpg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://russian-theatre.ru/images/calendar.svg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://russian-theatre.ru/images/repertoire-content-bg.jpg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\repertoire-content-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://russian-theatre.ru/images/main-scene-bg.jpg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\main-scene-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://russian-theatre.ru/images/page-top-bg-light.jpg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\page-top-bg-light.jpg
+Content Type: image/jpeg
+
+Uri: https://russian-theatre.ru/images/theatre-content-bg.jpg
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\images\theatre-content-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://russian-theatre.ru/
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://russian-theatre.ru/js/main.js
+File Name: c:\Downloaded Web Sites\russian-theatre.ru\js\main.js
+Content Type: application/javascript
+
